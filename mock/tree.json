@@ -1,0 +1,1383 @@
+{
+    "code": 200,
+    "data": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "1E0E2B2D-2F29-4D54-BD83-38A09050F8D6",
+              "serverName": "外墙面",
+              "serverUrlName": "所有分类/毛坯房/外墙面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "EE1ACF3D-CDE8-4B55-8A43-B6F9F3502897",
+              "serverName": "天花",
+              "serverUrlName": "所有分类/毛坯房/天花",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "3B949389-41E4-435E-BE77-DF8F34A45743",
+              "serverName": "窗台",
+              "serverUrlName": "所有分类/毛坯房/窗台",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "193DA6A0-544C-414F-BEA2-2D8074EC9468",
+              "serverName": "窗户",
+              "serverUrlName": "所有分类/毛坯房/窗户",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "43ACD22E-AA49-4170-B826-3EF993DF1B4B",
+              "serverName": "入户门",
+              "serverUrlName": "所有分类/毛坯房/入户门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "05AB7520-8F18-4FD8-AD54-43D193E372A6",
+              "serverName": "其它",
+              "serverUrlName": "所有分类/毛坯房/其它",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "2E028E90-BE14-49D8-A497-3C471114403A",
+              "serverName": "空调机位",
+              "serverUrlName": "所有分类/毛坯房/空调机位",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "56185771-8BA7-4939-B1D8-5860A0970B8B",
+              "serverName": "雨篷",
+              "serverUrlName": "所有分类/毛坯房/雨篷",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "407F2160-5412-41F9-BE2B-04D86DBA264A",
+              "serverName": "墙面",
+              "serverUrlName": "所有分类/毛坯房/墙面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "6839FFF4-B80A-4ED1-905E-52B96DBE8626",
+              "serverName": "踏步或楼梯",
+              "serverUrlName": "所有分类/毛坯房/踏步或楼梯",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "a6ffc600-ba48-4893-90bf-b7151606f494",
+              "serverName": "太阳能",
+              "serverUrlName": "所有分类/毛坯房/太阳能",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "1D4598EA-CFDF-45AF-8097-A5ADBCD8467F",
+              "serverName": "护栏",
+              "serverUrlName": "所有分类/毛坯房/护栏",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "ADAD7108-8FE8-4FEE-9F97-56B48D1F67D3",
+              "serverName": "围墙",
+              "serverUrlName": "所有分类/毛坯房/围墙",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "58F5A7D7-CE97-4827-90DA-639B98F0F2D3",
+              "serverName": "给排水管道系统",
+              "serverUrlName": "所有分类/毛坯房/给排水管道系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "B69B629D-0746-4D23-9C3B-05422E815CA6",
+              "serverName": "草坪",
+              "serverUrlName": "所有分类/毛坯房/草坪",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "D8EBDF0D-F423-4FC6-8428-EC729E1AD1F6",
+              "serverName": "车库门",
+              "serverUrlName": "所有分类/毛坯房/车库门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "66142BDA-BF87-4D0A-A2EC-6B5839DB4A88",
+              "serverName": "保洁",
+              "serverUrlName": "所有分类/毛坯房/保洁",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "E6231C92-6905-48B4-8C53-ACE080CDDEE1",
+              "serverName": "燃气管道系统",
+              "serverUrlName": "所有分类/毛坯房/燃气管道系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "639E5D95-32B2-4979-B952-DBF8544D76A9",
+              "serverName": "地面",
+              "serverUrlName": "所有分类/毛坯房/地面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "47C0C66E-E5D1-47DD-9835-C36BC355FE9A",
+              "serverName": "推拉门",
+              "serverUrlName": "所有分类/毛坯房/推拉门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "7BADF7F6-47D6-E611-80D1-90E2BA7E6495",
+              "serverName": "地暖",
+              "serverUrlName": "所有分类/毛坯房/地暖",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "D896F458-384E-4453-836E-4CACE28EF3E8",
+              "serverName": "沉箱",
+              "serverUrlName": "所有分类/毛坯房/沉箱",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "b300ce60-6ebc-48b2-85d2-bc24b7171447",
+              "serverName": "通信光纤系统",
+              "serverUrlName": "所有分类/毛坯房/通信光纤系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "3DC2DCB6-09DE-4669-B683-52184F39547E",
+              "serverName": "园建",
+              "serverUrlName": "所有分类/毛坯房/园建",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "77CB0915-411B-45AB-97A4-99069DABF67E",
+              "serverName": "防火门",
+              "serverUrlName": "所有分类/毛坯房/防火门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "50BC5A8A-4B6B-43C4-AD32-F2690DA58EE8",
+              "serverName": "屋面",
+              "serverUrlName": "所有分类/毛坯房/屋面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 2,
+              "parentId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+              "serverId": "316ABE60-2087-4F0C-9102-6142FDFAE8E4",
+              "serverName": "平开门",
+              "serverUrlName": "所有分类/毛坯房/平开门",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 2,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "E942AA55-0A64-4BFD-80DE-721E80609C11",
+          "serverName": "毛坯房",
+          "serverUrlName": "所有分类/毛坯房",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "F07F170B-45D6-E611-80D1-90E2BA7E6495",
+              "serverName": "地暖",
+              "serverUrlName": "所有分类/精装房/地暖",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "D66A3E56-9660-44F1-B9AC-E393F65D78E6",
+              "serverName": "入户门",
+              "serverUrlName": "所有分类/精装房/入户门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "16DADE3E-6EB1-4E11-9C3D-63029025EF13",
+              "serverName": "窗户",
+              "serverUrlName": "所有分类/精装房/窗户",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "DD849C81-576C-4FB7-98DF-F9B403D40354",
+              "serverName": "外墙面",
+              "serverUrlName": "所有分类/精装房/外墙面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "F8E0D732-DE14-427C-AC7D-32D99E20B066",
+              "serverName": "保洁",
+              "serverUrlName": "所有分类/精装房/保洁",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "8EE88034-5AB2-4582-92B7-A58F9EF8DE64",
+              "serverName": "推拉门",
+              "serverUrlName": "所有分类/精装房/推拉门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "024EE609-CB31-46C8-B718-75A427312AC5",
+              "serverName": "车库门",
+              "serverUrlName": "所有分类/精装房/车库门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "7541830C-858E-49CF-9F28-31E94BC81160",
+              "serverName": "窗台",
+              "serverUrlName": "所有分类/精装房/窗台",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "E2949C74-FDB9-4FD6-8126-D0F964557D68",
+              "serverName": "吊柜",
+              "serverUrlName": "所有分类/精装房/吊柜",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "CEA41DF8-06B4-45C7-8BB7-67AAD50D7484",
+              "serverName": "地柜",
+              "serverUrlName": "所有分类/精装房/地柜",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "610024D7-6D33-4F6B-BC94-5312426DF298",
+              "serverName": "墙面",
+              "serverUrlName": "所有分类/精装房/墙面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "4C2BF121-8B0C-44FD-A851-0B04B99286B4",
+              "serverName": "次入户门",
+              "serverUrlName": "所有分类/精装房/次入户门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "3C2800B6-19E4-4A81-AEF0-DD209A1DA4D7",
+              "serverName": "衣柜",
+              "serverUrlName": "所有分类/精装房/衣柜",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "D6BBD9EC-5B57-4ECB-9662-E811DEC07576",
+              "serverName": "五金洁具",
+              "serverUrlName": "所有分类/精装房/五金洁具",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "EF132661-A42F-4248-ACA0-2B1D9B313FAA",
+              "serverName": "围墙",
+              "serverUrlName": "所有分类/精装房/围墙",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "525E6BF5-464C-4085-BF7F-580E6BFA7807",
+              "serverName": "电器",
+              "serverUrlName": "所有分类/精装房/电器",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "8EE7B301-BFF3-4F1B-809D-C95B10DBC323",
+              "serverName": "平开门",
+              "serverUrlName": "所有分类/精装房/平开门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "39F76B34-10D0-4B2A-97AE-6F26BD2A8D2B",
+              "serverName": "燃气管道系统",
+              "serverUrlName": "所有分类/精装房/燃气管道系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "F05B8496-A021-43CB-8702-B770E81E633A",
+              "serverName": "厨房五金",
+              "serverUrlName": "所有分类/精装房/厨房五金",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "E5EAFE4C-F819-4140-BD36-E379A19A8496",
+              "serverName": "窗帘盒",
+              "serverUrlName": "所有分类/精装房/窗帘盒",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "3C03BEDD-B0FF-480B-B9CB-78C5793913C9",
+              "serverName": "踏步或楼梯",
+              "serverUrlName": "所有分类/精装房/踏步或楼梯",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "597FC8B0-5E0F-48DD-B727-8C199AC3F77A",
+              "serverName": "浴缸",
+              "serverUrlName": "所有分类/精装房/浴缸",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "B56C42E9-499E-4EEF-9080-AFF5C9555D91",
+              "serverName": "淋浴屏",
+              "serverUrlName": "所有分类/精装房/淋浴屏",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "9E62C564-F91D-4B7E-9DDB-3202ACA100E9",
+              "serverName": "太阳能",
+              "serverUrlName": "所有分类/精装房/太阳能",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "5A14E6B8-1C1C-412F-A494-3A99416163D1",
+              "serverName": "美缝",
+              "serverUrlName": "所有分类/精装房/美缝",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "0AB59CC1-B5C0-438B-A861-3562C836DE7C",
+              "serverName": "草坪",
+              "serverUrlName": "所有分类/精装房/草坪",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "1E0F3905-D129-43EB-87FF-3A6BEF2E0548",
+              "serverName": "雨篷",
+              "serverUrlName": "所有分类/精装房/雨篷",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "5D02D49E-1999-4AC6-9C92-B8AC19F83BD8",
+              "serverName": "玄关柜",
+              "serverUrlName": "所有分类/精装房/玄关柜",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "5BA17F7A-3915-44F9-A554-D1BE162D7D9A",
+              "serverName": "天花",
+              "serverUrlName": "所有分类/精装房/天花",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "BD0FD068-8B42-4B53-A5CD-8620A8363DA6",
+              "serverName": "储物柜",
+              "serverUrlName": "所有分类/精装房/储物柜",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "F864E2BB-8414-4436-8674-1653257F2EA5",
+              "serverName": "空调机位",
+              "serverUrlName": "所有分类/精装房/空调机位",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "222D4F17-E0D9-425E-AB38-84DFFCBBDA17",
+              "serverName": "地面",
+              "serverUrlName": "所有分类/精装房/地面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "6C3E90EA-45D1-4C5B-BC43-C8BD834F7603",
+              "serverName": "屋面",
+              "serverUrlName": "所有分类/精装房/屋面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "4DC97E63-4A23-4E06-8F77-9676457AEADB",
+              "serverName": "其它",
+              "serverUrlName": "所有分类/精装房/其它",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "4613900B-6A6D-4161-8435-09BFDFF7912C",
+              "serverName": "给排水管道系统",
+              "serverUrlName": "所有分类/精装房/给排水管道系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "8CF90332-2D5D-486E-BE6E-6E34EBB6F9B4",
+              "serverName": "护栏",
+              "serverUrlName": "所有分类/精装房/护栏",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "08256BAD-FF7E-4B7F-B452-9BB1CBE3F023",
+              "serverName": "防火门",
+              "serverUrlName": "所有分类/精装房/防火门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 1,
+              "parentId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+              "serverId": "DD51F48E-183E-4F71-ADAF-FD8B968845C2",
+              "serverName": "新风系统",
+              "serverUrlName": "所有分类/精装房/新风系统",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 1,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "1ADBBDCC-65C4-46F2-87D6-6700142B9571",
+          "serverName": "精装房",
+          "serverUrlName": "所有分类/精装房",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "01a4038f-805f-4887-b51c-1741436c149d",
+              "serverId": "1529297299603558401",
+              "serverName": "的风格额",
+              "serverUrlName": "所有分类/其他/的风格额",
+              "sort": 0
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "01a4038f-805f-4887-b51c-1741436c149d",
+              "serverId": "C63EF60F-CB75-4A16-AF43-0E62732E12CD",
+              "serverName": "内部人员投诉",
+              "serverUrlName": "所有分类/其他/内部人员投诉",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "01a4038f-805f-4887-b51c-1741436c149d",
+              "serverId": "403c6f77-b3ac-41fc-88f3-50513f32fae9",
+              "serverName": "合作方（非营销）",
+              "serverUrlName": "所有分类/其他/合作方（非营销）",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "01a4038f-805f-4887-b51c-1741436c149d",
+              "serverId": "0E174904-781D-4789-85B1-F8DC71E0318C",
+              "serverName": "子公司",
+              "serverUrlName": "所有分类/其他/子公司",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 0,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "01a4038f-805f-4887-b51c-1741436c149d",
+          "serverName": "其他",
+          "serverUrlName": "所有分类/其他",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "7CA93572-13FA-4458-9C03-8E47F5C3D19F",
+              "serverName": "消防系统",
+              "serverUrlName": "所有分类/公共区域/消防系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "EE781E9E-89ED-4258-AA79-E84BF2D49156",
+              "serverName": "弱电系统",
+              "serverUrlName": "所有分类/公共区域/弱电系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "AE94D344-5EA9-4D90-8525-5D2D6B01E055",
+              "serverName": "电管井",
+              "serverUrlName": "所有分类/公共区域/电管井",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "8B831C19-D0EE-4EB3-8C30-0786F1B3F119",
+              "serverName": "墙身【土建】",
+              "serverUrlName": "所有分类/公共区域/墙身【土建】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "6EB67ED8-9FE9-40AF-8895-DCE12D5CC132",
+              "serverName": "外墙",
+              "serverUrlName": "所有分类/公共区域/外墙",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "B027D62D-3801-44F0-861D-EA6D231CCEDB",
+              "serverName": "电梯",
+              "serverUrlName": "所有分类/公共区域/电梯",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "F0F5CC11-FEB6-4BAC-9456-0BB9EB31989D",
+              "serverName": "地面【精装大堂、电梯前室、楼梯间】",
+              "serverUrlName": "所有分类/公共区域/地面【精装大堂、电梯前室、楼梯间】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "314CAF0F-3932-4CF4-BA71-B33BCCE7CA74",
+              "serverName": "墙身【精装大堂、电梯前室、楼梯间】",
+              "serverUrlName": "所有分类/公共区域/墙身【精装大堂、电梯前室、楼梯间】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "7FD10A0B-AC91-478B-91E9-AF8FA329C3F7",
+              "serverName": "标示工程",
+              "serverUrlName": "所有分类/公共区域/标示工程",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "403A001E-6F3B-4F80-8DFD-9097F6530385",
+              "serverName": "梁柱",
+              "serverUrlName": "所有分类/公共区域/梁柱",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "3C5195C0-6D94-4B51-BB9A-A2168105122D",
+              "serverName": "窗台",
+              "serverUrlName": "所有分类/公共区域/窗台",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "45BED491-60D6-4116-9CDB-6B1420124EF2",
+              "serverName": "天花【精装大堂、电梯前室、楼梯间】",
+              "serverUrlName": "所有分类/公共区域/天花【精装大堂、电梯前室、楼梯间】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "9AD3A45C-5589-49F6-A3ED-A6ADB4649968",
+              "serverName": "屋面",
+              "serverUrlName": "所有分类/公共区域/屋面",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "3D00247B-C93B-4EC2-B38B-1EB60F835748",
+              "serverName": "消防安装",
+              "serverUrlName": "所有分类/公共区域/消防安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "253987A8-4580-4133-A146-8D8AB197E787",
+              "serverName": "车场",
+              "serverUrlName": "所有分类/公共区域/车场",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "D5479688-1F46-4B07-BB46-71C8599AFF60",
+              "serverName": "土建装修",
+              "serverUrlName": "所有分类/公共区域/土建装修",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "0C9457A2-505F-4082-8410-28374DCD17E3",
+              "serverName": "弱电安装",
+              "serverUrlName": "所有分类/公共区域/弱电安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "ADBAC1CD-A947-4BDA-8B6E-F07DAD006CC8",
+              "serverName": "人防工程",
+              "serverUrlName": "所有分类/公共区域/人防工程",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "42531AE5-3ED0-4D44-B8C8-4D5C1AB7E2EA",
+              "serverName": "护栏",
+              "serverUrlName": "所有分类/公共区域/护栏",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "48289908-2622-4B28-83D3-19A61A1B7F37",
+              "serverName": "空调安装",
+              "serverUrlName": "所有分类/公共区域/空调安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "C826DC63-DB55-4215-8A37-30BB6CBF6C73",
+              "serverName": "窗户",
+              "serverUrlName": "所有分类/公共区域/窗户",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "028F9B96-1D40-4BA4-8F3E-9E4AF6602F4D",
+              "serverName": "给排水",
+              "serverUrlName": "所有分类/公共区域/给排水",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "BC800D39-A0E9-46F2-AC5A-4EDF2F1D08A6",
+              "serverName": "电气安装",
+              "serverUrlName": "所有分类/公共区域/电气安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "58D5CC68-E5C7-493A-A5E8-96E0B3F93F21",
+              "serverName": "水管井",
+              "serverUrlName": "所有分类/公共区域/水管井",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "4E43950C-C922-452C-805F-9953CE365B52",
+              "serverName": "市政、园林工程",
+              "serverUrlName": "所有分类/公共区域/市政、园林工程",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "E088656D-5101-4117-8F96-01912827AD60",
+              "serverName": "电梯安装",
+              "serverUrlName": "所有分类/公共区域/电梯安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "C0C28E6D-A994-434D-865B-DBA71B59070F",
+              "serverName": "门",
+              "serverUrlName": "所有分类/公共区域/门",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "F4540E25-CE34-4AC0-8994-AE14666099D3",
+              "serverName": "防水工程",
+              "serverUrlName": "所有分类/公共区域/防水工程",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "912E7CE7-AFFD-4850-B37C-CB90DF8BE846",
+              "serverName": "空调系统",
+              "serverUrlName": "所有分类/公共区域/空调系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "526C94FA-EDD2-48D6-BF9D-5A81498D690D",
+              "serverName": "给水安装",
+              "serverUrlName": "所有分类/公共区域/给水安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "34F459E5-0474-4E34-BE60-E139280F0667",
+              "serverName": "电气设备房",
+              "serverUrlName": "所有分类/公共区域/电气设备房",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "BDE0BE2B-799B-4E2D-AF64-321ED8D68E4A",
+              "serverName": "供配电系统",
+              "serverUrlName": "所有分类/公共区域/供配电系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "54626A26-0783-41C3-BA00-ABF35FA693DC",
+              "serverName": "供水设备房",
+              "serverUrlName": "所有分类/公共区域/供水设备房",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "CF7F13C9-96FC-4293-81AC-FC986ABA68E3",
+              "serverName": "地面【土建】",
+              "serverUrlName": "所有分类/公共区域/地面【土建】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "B2C4E65C-EA6D-498D-9536-9B937FC2BECC",
+              "serverName": "排水安装",
+              "serverUrlName": "所有分类/公共区域/排水安装",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "AC0624B5-0C3B-4164-97EF-302DECC6AF24",
+              "serverName": "天花【土建】",
+              "serverUrlName": "所有分类/公共区域/天花【土建】",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "6BC047E9-F250-4F44-BA12-8C24A2ACF7E1",
+              "serverName": "雨篷",
+              "serverUrlName": "所有分类/公共区域/雨篷",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+              "serverId": "03B3781D-0951-4D47-B19E-2CD44D2A43D7",
+              "serverName": "其它",
+              "serverUrlName": "所有分类/公共区域/其它",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 0,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "519CB427-655A-4BEA-91C5-529B2F416CC4",
+          "serverName": "公共区域",
+          "serverUrlName": "所有分类/公共区域",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "af6dfb29-4f9f-4466-bfd4-3900725520ee",
+              "serverId": "a4ec91d7-52b1-4bec-8563-061f3676c21c",
+              "serverName": "工程质量",
+              "serverUrlName": "所有分类/产品类/工程质量",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "af6dfb29-4f9f-4466-bfd4-3900725520ee",
+              "serverId": "93029236-9ac5-41be-ba54-498e7faf72a8",
+              "serverName": "配套设施",
+              "serverUrlName": "所有分类/产品类/配套设施",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 0,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "af6dfb29-4f9f-4466-bfd4-3900725520ee",
+          "serverName": "产品类",
+          "serverUrlName": "所有分类/产品类",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "7B3BDA90-84B0-45D6-9996-0D4A26033723",
+              "serverName": "产权资料",
+              "serverUrlName": "所有分类/文件资料/产权资料",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "D32CFECB-910D-478D-A986-59ADE7EEA121",
+              "serverName": "发电机",
+              "serverUrlName": "所有分类/文件资料/发电机",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "0D59BD57-7FE3-4A51-A5D1-7E797C0718D9",
+              "serverName": "供配电系统",
+              "serverUrlName": "所有分类/文件资料/供配电系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "4043B457-7E7A-47A9-A38A-6F80961216B8",
+              "serverName": "园林",
+              "serverUrlName": "所有分类/文件资料/园林",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "BD158413-28FB-4165-9695-9A3379D659A2",
+              "serverName": "人防",
+              "serverUrlName": "所有分类/文件资料/人防",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "C2B569C6-71C0-4798-B037-0CAADBB09844",
+              "serverName": "防雷",
+              "serverUrlName": "所有分类/文件资料/防雷",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "29455F05-679E-45B1-8E11-32F4E9CAC635",
+              "serverName": "缺失",
+              "serverUrlName": "所有分类/文件资料/缺失",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "F5455364-0600-404F-8341-31F7000FE36A",
+              "serverName": "其它",
+              "serverUrlName": "所有分类/文件资料/其它",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "D19566AC-F1CC-463A-A78C-595DBD863930",
+              "serverName": "消防系统",
+              "serverUrlName": "所有分类/文件资料/消防系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "A449B69A-D9F2-4728-81BA-178F19900E7D",
+              "serverName": "电梯系统",
+              "serverUrlName": "所有分类/文件资料/电梯系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "5BFFF384-A8EC-48C9-A3FE-17F91EA8C99F",
+              "serverName": "施工资料",
+              "serverUrlName": "所有分类/文件资料/施工资料",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "42BAC7A5-4085-4F3E-BF7A-AF03603DDBA9",
+              "serverName": "智能化弱电系统",
+              "serverUrlName": "所有分类/文件资料/智能化弱电系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "34D9E099-2F0D-4F49-9179-1797EFB7B547",
+              "serverName": "燃气",
+              "serverUrlName": "所有分类/文件资料/燃气",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "509DF52D-4AA5-4208-BF2C-2DC30751E96B",
+              "serverName": "给排水系统",
+              "serverUrlName": "所有分类/文件资料/给排水系统",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+              "serverId": "9B5F298C-C35E-43C9-BE9A-CA28E45A95C3",
+              "serverName": "土建结构",
+              "serverUrlName": "所有分类/文件资料/土建结构",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 0,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "D5F597F2-F239-488A-8963-E13A9D43F5D2",
+          "serverName": "文件资料",
+          "serverUrlName": "所有分类/文件资料",
+          "sort": 1
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+              "serverId": "8A17009C-24A2-407E-A01B-D147DECD46F3",
+              "serverName": "客户服务",
+              "serverUrlName": "所有分类/服务类/客户服务",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+              "serverId": "A7C2AEA2-1DEF-4F20-8F17-4C08234DD232",
+              "serverName": "维修服务",
+              "serverUrlName": "所有分类/服务类/维修服务",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+              "serverId": "86ee47cb-cacf-4775-8cca-cad95d68e59f",
+              "serverName": "销售管理",
+              "serverUrlName": "所有分类/服务类/销售管理",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+              "serverId": "10ffb655-c994-4690-a36d-8c59ad911cbc",
+              "serverName": "财务管理",
+              "serverUrlName": "所有分类/服务类/财务管理",
+              "sort": 1
+            },
+            {
+              "children": [],
+              "classLevel": "3",
+              "decorationStandard": 0,
+              "parentId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+              "serverId": "2810CE35-C60A-4010-8D2F-C79800AF7AF9",
+              "serverName": "物业管理",
+              "serverUrlName": "所有分类/服务类/物业管理",
+              "sort": 1
+            }
+          ],
+          "classLevel": "2",
+          "decorationStandard": 0,
+          "parentId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+          "serverId": "CE077D2A-F528-451D-A6D1-2BD10E83EC43",
+          "serverName": "服务类",
+          "serverUrlName": "所有分类/服务类",
+          "sort": 1
+        }
+      ],
+      "classLevel": "1",
+      "decorationStandard": 0,
+      "parentId": "",
+      "serverId": "0FECCB04-99F6-4A48-BAF9-EFD354E8B2C0",
+      "serverName": "所有分类",
+      "serverUrlName": "",
+      "sort": 1
+    },
+    "errorDetail": null,
+    "msg": ""
+  }
