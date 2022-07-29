@@ -1,5 +1,3 @@
-
-// 该文件已废弃
 import React, { FC } from 'react'
 import { NavBar, TabBar } from 'antd-mobile'
 import {
@@ -16,11 +14,11 @@ import {
   UserOutline,
 } from 'antd-mobile-icons'
 
-import Home from '../home'
-import Find from '../find'
-import Detail from '../detail'
-import My from '../my'
-import './index.css'
+import Home from './views/home'
+import Find from './views/find'
+import Detail from './views/detail'
+import My from './views/my'
+import './App.css';
 
 const Bottom: FC = () => {
   const history = useHistory()

@@ -1,4 +1,4 @@
-// import logo from './asset/logo.svg';
+// 该文件已废弃
 import './App.css';
 import React from 'react';
 // import {HashRouter as Router,Route,NavLink,Redirect,Switch} from 'react-router-dom'
