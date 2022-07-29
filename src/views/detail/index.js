@@ -21,11 +21,11 @@ class Detail extends React.Component{
     }
     reduceSum = () =>{
         console.log("点我===",this.props)
-        if(this.props.match.params.id == "11"){
+        // if(this.props.match.params.id == "11"){
             this.setState({
                 sum: this.state.sum-1
             })
-        }
+        // }
     }
     show = () => {
         this.setState({

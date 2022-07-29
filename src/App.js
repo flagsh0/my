@@ -2,30 +2,16 @@
 import './App.css';
 import React from 'react';
 // import {HashRouter as Router,Route,NavLink,Redirect,Switch} from 'react-router-dom'
-import { NavLink,Route } from 'react-router-dom'
-import Home from './views/home'
-import About from './views/about'
-import Detail from './views/detail'
-// const home = React.lazy(() => import(/* webpackPrefetch: true */ './views/home'));
-// const about = React.lazy(() => import(/* webpackPrefetch: true */ './views/about'));
+import { Route,NavLink } from 'react-router-dom'
+import Layout from './views/layout/index.tsx';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div className="nav">
-          <NavLink className="nav-itam" to="/home">Home</NavLink> |
-          <NavLink className="nav-itam" to="/about"> About</NavLink> |
-          <NavLink className="nav-itam" to="/detail/11"> detail1</NavLink> |
-          <NavLink className="nav-itam" to="/detail/22"> detail2</NavLink>
-        </div>
-        <div>
-          <h1>显示路由</h1>
-          <Route path="/home" component={Home}/>
-          <Route path="/about" component={About}/>
-          <Route path="/detail/:id" component={Detail}/>
-        </div>
-      </header>
+      {/* <Routes></Routes> */}
+      <NavLink to="./layout">发现</NavLink>
+      
+      <Route path="/layout" component={Layout}></Route>
     </div>
   );
 }

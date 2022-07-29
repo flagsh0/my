@@ -1,25 +1,18 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import './index.css'
-// import '../../mock/api'
 import { Button } from 'antd-mobile'
 import { homeFind } from '../../api/api'
 
-const name = "我是首页"
+const name = "我是发现页面"
 
-class Home extends React.Component{
+class Find extends React.Component{
     getList = () => {
         axios.get("/api/homepage/block/page").then((res) => {
             console.log(res)
         })
     }
-    // getDate = () => {
-    //     axios.get("http://localhost:3001/mock/usermsg").then((res) => {
-    //         console.log(res)
-    //     })
-    // }
-
-    componentDidMount(){
+    homeFind = () => {
         homeFind().then((res) => {
             console.log("hhhh,,",res)
         })
@@ -30,8 +23,11 @@ class Home extends React.Component{
         return(
             <div>
                 <div>
-                    你好,{name},该页面还在建设中。。。
+                    你好,{name}
                 </div>
+                <Button onClick={this.homeFind} color='primary' fill='solid'>
+                    点我获取list  
+                </Button>
                 
             </div>
 
@@ -39,4 +35,4 @@ class Home extends React.Component{
     }
 }
 
-export default Home;
+export default Find;
