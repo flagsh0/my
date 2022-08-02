@@ -64,10 +64,10 @@ const Bottom: FC = () => {
 class Layout extends React.Component{
     render(){
         return (
-            <Router initialEntries={['/home']}>
+            <Router initialEntries={['/find']}>
                 <div className='app'>
                 <div className='top'>
-                    <NavBar>我是标题</NavBar>
+                    <NavBar>网易云音乐</NavBar>
                 </div>
                 <div className='body'>
                     <Switch>
